@@ -1,0 +1,78 @@
+music,artist,duration_ms,music_popularity,genres,artist_popularity,followers,liked
+One Last Kiss,Hikaru Utada,249904,62,"['j-pop', 'j-r&b', 'anime']",70,3960146,1
+Comedy,Gen Hoshino,230666,66,"['j-pop', 'anime']",69,2155095,1
+勇者,YOASOBI,194164,67,"['j-pop', 'anime']",76,9234954,1
+青のすみか,Tatsuya Kitani,196466,74,"['anime', 'j-pop', 'j-rock']",67,631086,1
+貴方の側に。,Riria.,242321,52,"['j-pop', 'anime']",54,231145,1
+Let There Be Light Again,落日飛車 Sunset Rollercoaster,227293,45,"['taiwanese indie', 'chinese indie', 'bedroom pop']",57,516277,1
+堕天 - Daten,Creepy Nuts,172906,70,"['anime', 'j-pop', 'j-rap']",72,1945322,1
+よふかしのうた - Yofukashino Uta,Creepy Nuts,237913,66,"['anime', 'j-pop', 'j-rap']",72,1945322,1
+晴る,ヨルシカ,270705,75,"['j-pop', 'j-rock', 'japanese indie', 'anime']",74,3144146,1
+アンビバレント,Uru,242495,66,"['j-pop', 'anime']",63,1096547,1
+雪の音,Novelbright,228133,52,"['j-pop', 'j-rock']",65,719723,1
+I Know You Know I Love You,落日飛車 Sunset Rollercoaster,120693,0,"['taiwanese indie', 'chinese indie', 'bedroom pop']",57,516277,1
+Vacation,DURDN,181142,48,"['j-r&b', 'j-pop', 'japanese indie']",45,74320,1
+Pretender,OFFICIAL HIGE DANDISM,326842,62,"['j-pop', 'anime', 'j-rock']",72,7208269,1
+Tattoo,OFFICIAL HIGE DANDISM,288099,46,"['j-pop', 'anime', 'j-rock']",72,7208269,1
+Wonderland,iri,224786,58,"['j-r&b', 'j-pop', 'japanese indie', 'j-rap', 'city pop']",56,426178,1
+honest (feat. moon tang),Gareth.T,177818,53,"['cantopop', 'chinese r&b']",61,130462,1
+Hurt,NewJeans,177946,74,['k-pop'],80,10899590,1
+NIGHT DANCER,imase,210600,74,['j-pop'],65,883041,1
+愛とか恋とか,Novelbright,232453,71,"['j-pop', 'j-rock']",65,719723,1
+シャッター,Yuuri,248946,68,['j-pop'],69,3057714,1
+Slow Dancing,V,187026,79,['k-pop'],79,19664651,1
+Love Me Again,V,182293,77,['k-pop'],79,19664651,1
+Palette (feat. G-DRAGON),IU,217412,66,"['k-pop', 'k-ballad']",72,9261864,1
+Bling-Bang-Bang-Born,Creepy Nuts,168135,79,"['anime', 'j-pop', 'j-rap']",72,1945322,1
+アルジャーノン,ヨルシカ,252786,63,"['j-pop', 'j-rock', 'japanese indie', 'anime']",74,3144146,1
+Avid,SawanoHiroyuki[nZk],250293,59,"['anime', 'j-pop', 'j-rock']",65,361939,1
+二度寝 - Nidone,Creepy Nuts,207187,59,"['anime', 'j-pop', 'j-rap']",72,1945322,1
+春泥棒,ヨルシカ,290289,71,"['j-pop', 'j-rock', 'japanese indie', 'anime']",74,3144146,1
+斜陽,ヨルシカ,200186,67,"['j-pop', 'j-rock', 'japanese indie', 'anime']",74,3144146,1
+So Precious,亜咲花,209026,36,['anime'],41,54410,1
+東京フラッシュ,Vaundy,258857,68,"['j-pop', 'japanese indie', 'j-rock']",75,3312454,1
+オトノケ - Otonoke,Creepy Nuts,185626,79,"['anime', 'j-pop', 'j-rap']",72,1945322,1
+Kuwazugirai,Leina,204694,36,['j-pop'],52,74176,1
+言って。,ヨルシカ,242182,71,"['j-pop', 'j-rock', 'japanese indie', 'anime']",74,3144146,1
+カーテンコール,Yuuri,243026,71,['j-pop'],69,3057714,1
+Send To You,luv,222066,52,"['japanese indie', 'j-r&b', 'j-pop']",45,47124,1
+Do It,Tuxedo,258502,56,"['nu disco', 'indie soul']",46,131163,1
+地球儀 - Spinning Globe,Kenshi Yonezu,273437,62,"['j-pop', 'anime', 'j-rock']",76,7002197,1
+Aria,AiNA THE END,218506,56,"['j-pop', 'anime']",52,134434,1
+Kimi no Maedato Tokechauno,Leina,212745,35,['j-pop'],52,74176,1
+青のすみか (Acoustic ver.),Tatsuya Kitani,203542,65,"['anime', 'j-pop', 'j-rock']",67,631086,1
+Getaway Car,Audioslave,298893,56,"['grunge', 'post-grunge', 'alternative metal']",73,4979849,0
+Equalize,Pitty,232240,70,"['brazilian rock', 'mpb', 'brazilian pop']",65,2485387,0
+Soul,Rival Sons,376386,26,"['blues rock', 'modern blues']",55,467158,0
+Stand by Me,Oasis,356600,66,"['britpop', 'madchester']",81,11697818,0
+Otherside,Red Hot Chili Peppers,255373,86,"['funk rock', 'alternative rock', 'rock']",86,22684221,0
+Easy,Faith No More,186960,59,"['funk rock', 'alternative metal', 'rap metal', 'grunge']",64,1919169,0
+Don't Go Away,Oasis,288600,59,"['britpop', 'madchester']",81,11697818,0
+"Everlong - Live at the Pantages Theatre, Los Angeles, CA - August 2006",Foo Fighters,397186,45,"['rock', 'post-grunge', 'alternative rock', 'grunge']",79,12683148,0
+"Big Me - Live at the Pantages Theatre, Los Angeles, CA - August 2006",Foo Fighters,181826,39,"['rock', 'post-grunge', 'alternative rock', 'grunge']",79,12683148,0
+Control - Acoustic Version,Puddle Of Mudd,247920,53,['post-grunge'],67,2245953,0
+Scars - Acoustic Version,Papa Roach,191813,56,"['nu metal', 'rap metal', 'alternative metal', 'rap rock', 'rock']",76,5869309,0
+Black,Pearl Jam,342653,81,"['grunge', 'rock', 'post-grunge']",78,9674813,0
+Under the Bridge,Red Hot Chili Peppers,264306,88,"['funk rock', 'alternative rock', 'rock']",86,22684221,0
+Fall to Pieces,Velvet Revolver,271240,64,['grunge'],55,1566651,0
+Drive,Incubus,232453,83,"['nu metal', 'funk rock', 'alternative metal', 'alternative rock']",73,3557892,0
+Doesn't Remind Me,Audioslave,255000,67,"['grunge', 'post-grunge', 'alternative metal']",73,4979849,0
+Scar Tissue,Red Hot Chili Peppers,215906,88,"['funk rock', 'alternative rock', 'rock']",86,22684221,0
+Little by Little,Oasis,292866,37,"['britpop', 'madchester']",81,11697818,0
+Black Hole Sun,Soundgarden,318586,1,"['grunge', 'post-grunge', 'hard rock']",72,4913960,0
+Like a Stone,Audioslave,293960,86,"['grunge', 'post-grunge', 'alternative metal']",73,4979849,0
+I Am the Highway,Audioslave,334906,72,"['grunge', 'post-grunge', 'alternative metal']",73,4979849,0
+Show Me How to Live,Audioslave,277840,76,"['grunge', 'post-grunge', 'alternative metal']",73,4979849,0
+The Gift - Live,Seether,336693,0,"['post-grunge', 'alternative metal', 'rock']",73,3726004,0
+Driven Under - Live,Seether,298666,0,"['post-grunge', 'alternative metal', 'rock']",73,3726004,0
+Fine Again - Live,Seether,305040,0,"['post-grunge', 'alternative metal', 'rock']",73,3726004,0
+Savin' Me,Nickelback,219320,44,"['post-grunge', 'rock']",82,7639521,0
+Blurry,Puddle Of Mudd,304000,2,['post-grunge'],67,2245953,0
+Alive,Pearl Jam,340907,79,"['grunge', 'rock', 'post-grunge']",78,9674813,0
+Hunger Strike,Temple Of The Dog,246266,72,"['grunge', 'post-grunge']",59,1369559,0
+Por Enquanto - Ao Vivo,Cássia Eller,143839,69,"['mpb', 'brazilian rock', 'brazilian pop']",65,2488186,0
+Let There Be Light Again,落日飛車 Sunset Rollercoaster,227293,45,"['taiwanese indie', 'chinese indie', 'bedroom pop']",57,516277,0
+Touché - Acoustic,Godsmack,217866,47,"['nu metal', 'alternative metal', 'hard rock', 'rap metal', 'metal']",70,3578364,0
+Naive,The Kooks,203506,80,"['indie', 'indie rock']",70,2636242,0
+The Lines (Low Gain Mix),Beartooth,181683,42,"['metalcore', 'post-hardcore']",63,860329,0
+7 - Acoustic,Catfish and the Bottlemen,252320,49,['indie'],67,1158761,0

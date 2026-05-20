@@ -1,0 +1,143 @@
+music,artist,duration_ms,music_popularity,genres,artist_popularity,followers,liked
+Hurt,NewJeans,177946,74,['k-pop'],80,10899590,1
+Gravity,John Mayer,245826,76,['singer-songwriter'],79,6181000,1
+If I Ain't Got You,Alicia Keys,228706,85,"['r&b', 'neo soul']",81,12650472,1
+Love,Keyshia Cole,255333,85,['r&b'],73,4224826,1
+Home,Michael Bublé,225906,75,['christmas'],75,6873401,1
+Don't Look Back in Anger - Remastered,Oasis,289560,77,"['britpop', 'madchester']",81,11697818,1
+Lego House,Ed Sheeran,185093,76,['soft pop'],92,121000076,1
+Colors,Black Pumas,246586,71,['retro soul'],65,1147039,1
+Lay Me Down (feat. John Legend),Sam Smith,219535,69,['soft pop'],84,25892755,1
+"10,000 Hours (with Justin Bieber)",Dan + Shay,167693,70,['country'],70,3201925,1
+Talullah,Jamiroquai,362066,62,['acid jazz'],72,2661159,1
+Normal Girl,SZA,253586,77,['r&b'],93,30926832,1
+"Sitting, Waiting, Wishing",Jack Johnson,183720,71,['surf rock'],78,4010553,1
+Lucky,Jason Mraz,189613,75,"['soft pop', 'acoustic pop']",75,7308265,1
+Beyond,Leon Bridges,240600,78,['retro soul'],76,1864962,1
+Cold Blooded,Gary Clark Jr.,223093,47,"['modern blues', 'blues rock', 'blues', 'soul blues']",58,966550,1
+Won't Go Home Without You,Maroon 5,231173,79,['pop'],89,45106925,1
+New Light,John Mayer,217426,78,['singer-songwriter'],79,6181000,1
+Coming Home,Leon Bridges,206386,80,['retro soul'],76,1864962,1
+Banana Pancakes,Jack Johnson,191906,74,['surf rock'],78,4010553,1
+She Will Be Loved - Radio Mix,Maroon 5,259453,87,['pop'],89,45106925,1
+Coastline,Hollow Coves,233973,80,['indie folk'],68,778579,1
+River,Leon Bridges,240200,80,['retro soul'],76,1864962,1
+Say You Won't Let Go,James Arthur,211466,89,['soft pop'],83,20367811,1
+I Got You,Jack Johnson,179346,70,['surf rock'],78,4010553,1
+Daughters,John Mayer,237906,69,['singer-songwriter'],79,6181000,1
+Dreams - 2004 Remaster,Fleetwood Mac,257800,92,"['classic rock', 'yacht rock', 'soft rock']",85,13346877,1
+Everything,Michael Bublé,212373,75,['christmas'],75,6873401,1
+Light Switch,Charlie Puth,187703,75,"['soft pop', 'pop']",82,24773352,1
+Isn't She Lovely,Stevie Wonder,199386,73,"['motown', 'classic soul', 'soul']",78,6982926,1
+Feeling Good,Michael Bublé,237333,77,['christmas'],75,6873401,1
+Come Inside Of My Heart,IV Of Spades,246396,79,"['opm', 'pinoy indie', 'harana', 'p-pop', 'kundiman']",66,3455955,1
+Tongue Tied,GROUPLOVE,218013,84,['indie'],67,1244229,1
+Ain't It Fun,Paramore,296520,80,"['pop punk', 'emo']",82,9496397,1
+Calling After Me,Wallows,187692,76,['indie'],73,2966793,1
+Haven't Met You Yet,Michael Bublé,244586,74,['christmas'],75,6873401,1
+My Girl,The Temptations,165000,84,"['motown', 'classic soul', 'soul']",69,3208370,1
+Honeypie,JAWNY,135581,80,['bedroom pop'],65,400761,1
+Best Friend,Rex Orange County,262231,80,['bedroom pop'],78,6555103,1
+I Don't Care,Ed Sheeran,219946,79,['soft pop'],92,121000076,1
+More Than A Woman,Bee Gees,197213,80,['disco'],80,8998650,1
+"Hey, Soul Sister",Train,216773,88,['soft pop'],77,4487051,1
+Everybody Wants To Rule The World,Tears For Fears,251488,90,"['new wave', 'synthpop']",76,3940335,1
+Standing Next to You,Jung Kook,206019,85,['k-pop'],83,17850016,1
+THE SHADE,Rex Orange County,181506,78,['bedroom pop'],78,6555103,1
+"Sorri, Sou Rei (feat. Claudia Leitte)",Natiruts,332653,66,"['reggae', 'mpb', 'roots reggae']",70,3527148,1
+Remember When,Wallows,155146,74,['indie'],73,2966793,1
+Loving Is Easy,Rex Orange County,155720,72,['bedroom pop'],78,6555103,1
+Brandy (You're a Fine Girl),Looking Glass,186826,81,['yacht rock'],63,116462,1
+Beautiful People (feat. Khalid),Ed Sheeran,197866,75,['soft pop'],92,121000076,1
+Goodie Bag,Still Woozy,146390,74,['bedroom pop'],67,1079172,1
+We Will Rock You - 2011 Remaster,Queen,121813,0,"['classic rock', 'rock', 'glam rock']",86,54224532,0
+Seven Nation Army,The White Stripes,231920,11,"['garage rock', 'blues rock', 'rock', 'alternative rock']",72,3453485,0
+Somewhere I Belong,Linkin Park,213933,84,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91,30488693,0
+Re-Education (Through Labor),Rise Against,222453,69,"['punk', 'hardcore punk']",73,2899078,0
+The Pretender,Foo Fighters,269373,81,"['rock', 'post-grunge', 'alternative rock', 'grunge']",79,12683148,0
+The Kids Aren't Alright,The Offspring,179600,9,"['punk', 'skate punk']",80,6390942,0
+Pretty Fly (For a White Guy),The Offspring,188106,2,"['punk', 'skate punk']",80,6390942,0
+My Hero,Foo Fighters,260026,79,"['rock', 'post-grunge', 'alternative rock', 'grunge']",79,12683148,0
+Learn to Fly,Foo Fighters,235293,79,"['rock', 'post-grunge', 'alternative rock', 'grunge']",79,12683148,0
+Paradise City,Guns N' Roses,405500,1,"['rock', 'glam metal', 'hard rock', 'classic rock']",83,34149106,0
+Born To Be Wild,Steppenwolf,210373,26,"['classic rock', 'acid rock']",63,1765419,0
+Welcome To The Jungle,Guns N' Roses,273600,1,"['rock', 'glam metal', 'hard rock', 'classic rock']",83,34149106,0
+Sweet Child O' Mine,Guns N' Roses,355266,0,"['rock', 'glam metal', 'hard rock', 'classic rock']",83,34149106,0
+Best of You,Foo Fighters,255626,79,"['rock', 'post-grunge', 'alternative rock', 'grunge']",79,12683148,0
+Wicked Ones,Dorothy,173901,29,['southern gothic'],57,401166,0
+Sweet Home Alabama,Lynyrd Skynyrd,285346,0,"['southern rock', 'classic rock', 'rock']",77,5697886,0
+Sympathy For The Devil,The Rolling Stones,377746,2,"['classic rock', 'rock']",81,15382016,0
+Stairway to Heaven - 1990 Remaster,Led Zeppelin,478173,3,"['classic rock', 'rock', 'hard rock', 'rock and roll']",80,15606897,0
+Tragedy + Time,Rise Against,257000,0,"['punk', 'hardcore punk']",73,2899078,0
+The Black Market,Rise Against,255960,0,"['punk', 'hardcore punk']",73,2899078,0
+Prayer Of The Refugee,Rise Against,199386,2,"['punk', 'hardcore punk']",73,2899078,0
+Fat Lip,Sum 41,178266,4,"['pop punk', 'punk', 'skate punk']",74,4230446,0
+Cryin',Aerosmith,308266,0,"['classic rock', 'rock']",79,15599236,0
+Like a Stone,Audioslave,293960,86,"['grunge', 'post-grunge', 'alternative metal']",73,4979849,0
+Walk,Foo Fighters,255960,71,"['rock', 'post-grunge', 'alternative rock', 'grunge']",79,12683148,0
+Cochise,Audioslave,222026,70,"['grunge', 'post-grunge', 'alternative metal']",73,4979849,0
+Testify,Rage Against The Machine,210133,68,"['rap metal', 'rap rock', 'alternative metal', 'nu metal']",74,6700848,0
+Nookie,Limp Bizkit,289560,78,"['nu metal', 'rap metal', 'alternative metal', 'rap rock']",81,7531331,0
+One Step Closer,Linkin Park,157333,87,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91,30488693,0
+Audience Of One,Rise Against,245480,0,"['punk', 'hardcore punk']",73,2899078,0
+Open Your Eyes,Alter Bridge,298600,0,"['post-grunge', 'alternative metal', 'hard rock']",62,1206131,0
+The Gift - Live,Seether,336693,0,"['post-grunge', 'alternative metal', 'rock']",73,3726004,0
+Driven Under - Live,Seether,298666,0,"['post-grunge', 'alternative metal', 'rock']",73,3726004,0
+When I'm Gone,3 Doors Down,260506,0,['post-grunge'],75,4778461,0
+Don't Stop Me Now,Queen,209546,1,"['classic rock', 'rock', 'glam rock']",86,54224532,0
+The Reason,Hoobastank,233200,0,['nu metal'],70,2680615,0
+Misery Business,Paramore,211520,79,"['pop punk', 'emo']",82,9496397,0
+Behind Blue Eyes,Limp Bizkit,269973,0,"['nu metal', 'rap metal', 'alternative metal', 'rap rock']",81,7531331,0
+Smooth Criminal,Alien Ant Farm,209266,78,"['nu metal', 'alternative metal']",62,992896,0
+Photograph,Nickelback,258920,52,"['post-grunge', 'rock']",82,7639521,0
+Savin' Me,Nickelback,219320,44,"['post-grunge', 'rock']",82,7639521,0
+Far Away,Nickelback,238173,49,"['post-grunge', 'rock']",82,7639521,0
+Rockstar,Nickelback,252040,69,"['post-grunge', 'rock']",82,7639521,0
+How You Remind Me,Nickelback,223840,88,"['post-grunge', 'rock']",82,7639521,0
+"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Aerosmith,298760,77,"['classic rock', 'rock']",79,15599236,0
+Blurry,Puddle Of Mudd,304000,2,['post-grunge'],67,2245953,0
+Falling Apart,zebrahead,189466,1,"['skate punk', 'punk', 'pop punk']",54,352457,0
+"Sugar, We're Goin Down",Fall Out Boy,229093,4,"['emo', 'pop punk']",81,11310985,0
+Everlong - Acoustic Version,Foo Fighters,250906,71,"['rock', 'post-grunge', 'alternative rock', 'grunge']",79,12683148,0
+Plush - Acoustic,Stone Temple Pilots,230293,68,"['grunge', 'alternative rock', 'post-grunge', 'rock']",72,3869371,0
+Alive - Acoustic Version,P.O.D.,223453,0,"['nu metal', 'christian rock', 'rap metal', 'rap rock', 'alternative metal']",65,2055580,0
+Scars - Acoustic Version,Papa Roach,190973,0,"['nu metal', 'rap metal', 'alternative metal', 'rap rock', 'rock']",76,5869309,0
+All These Things I Hate (Revolve Around Me),Bullet For My Valentine,225440,64,"['metalcore', 'metal']",70,3409762,0
+Broken Promises,Element Eighty,197933,0,"['nu metal', 'alternative metal']",40,50217,0
+Celebration Song,Unwritten Law,220013,55,"['skate punk', 'punk']",47,149363,0
+Notice of Eviction,The Bronx,136093,47,"['punk', 'hardcore punk', 'skate punk']",43,100152,0
+Glow,Alien Ant Farm,196906,20,"['nu metal', 'alternative metal']",62,992896,0
+Bother,Stone Sour,240400,70,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+I Remember,A Day To Remember,544925,0,"['metalcore', 'post-hardcore', 'pop punk', 'screamo', 'emo']",72,2490628,0
+Don't Stop Dancing,Creed,272866,0,['post-grunge'],77,4058973,0
+One,Creed,302533,0,['post-grunge'],77,4058973,0
+Epic,Faith No More,293653,70,"['funk rock', 'alternative metal', 'rap metal', 'grunge']",64,1919169,0
+Sweet Child O' Mine,Guns N' Roses,354520,18,"['rock', 'glam metal', 'hard rock', 'classic rock']",83,34149106,0
+Patience,Guns N' Roses,354400,2,"['rock', 'glam metal', 'hard rock', 'classic rock']",83,34149106,0
+Civil War,Guns N' Roses,462093,0,"['rock', 'glam metal', 'hard rock', 'classic rock']",83,34149106,0
+Carry on Wayward Son,Kansas,323000,80,"['classic rock', 'progressive rock', 'aor']",69,1833462,0
+Closer,Lacuna Coil,181720,0,"['gothic metal', 'symphonic metal', 'gothic rock', 'metal']",57,759545,0
+In The End,Linkin Park,216933,0,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91,30488693,0
+Breaking the Habit,Linkin Park,196133,58,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91,30488693,0
+Faint,Linkin Park,162106,58,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91,30488693,0
+Given Up,Linkin Park,189293,61,"['nu metal', 'rap metal', 'rock', 'alternative metal']",91,30488693,0
+Smells Like Teen Spirit,Nirvana,301920,14,"['grunge', 'rock']",85,22494863,0
+No One Knows,Queens of the Stone Age,254786,0,"['stoner rock', 'alternative rock']",73,3763847,0
+Angie,The Rolling Stones,272000,0,"['classic rock', 'rock']",81,15382016,0
+Californication,Red Hot Chili Peppers,329733,88,"['funk rock', 'alternative rock', 'rock']",86,22684221,0
+Otherside,Red Hot Chili Peppers,255373,86,"['funk rock', 'alternative rock', 'rock']",86,22684221,0
+Snow (Hey Oh),Red Hot Chili Peppers,334666,83,"['funk rock', 'alternative rock', 'rock']",86,22684221,0
+Fall to Pieces,Velvet Revolver,271240,64,['grunge'],55,1566651,0
+Gimme Shelter (feat. Lzzy Hale),Stone Sour,266926,50,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+No One Knows,Queens of the Stone Age,280693,21,"['stoner rock', 'alternative rock']",73,3763847,0
+In Time,Mark Collie,165133,0,"['classic country', 'southern gothic', 'traditional country']",38,44142,0
+Wanted Dead Or Alive,Bon Jovi,308666,1,"['glam metal', 'rock']",81,15254944,0
+Wicked Game - Acoustic; Live,Stone Sour,267253,47,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+Sadist,Stone Sour,307640,41,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+The Uncanny Valley,Stone Sour,241800,35,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+Do Me a Favor,Stone Sour,224426,50,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+Gone Sovereign,Stone Sour,243266,55,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+Tired,Stone Sour,251840,60,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+Taciturn,Stone Sour,325626,58,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+Come What(ever) May,Stone Sour,219786,23,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
+Hell & Consequences,Stone Sour,211320,21,"['post-grunge', 'alternative metal', 'nu metal']",67,3056164,0
